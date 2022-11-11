@@ -1,6 +1,5 @@
 <p align="center">
   <img src="raw.githubusercontent.com/ozzyDev27/ozzyDev27/master/ozzyLogo.png" />
-  <img src="raw.githubusercontent.com/ozzyDev27/ozzyDev27/master/ozzyLogo.png"></img>
 </p>
 
 Hi, I’m 
