@@ -2,10 +2,12 @@
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 30%;"
+           width: 30%;
+           align: center;"
     src="https://raw.githubusercontent.com/ozzyDev27/ozzyDev27/master/ozzyLogo.png" 
     alt="ozzy">
 </img>
+
 Hi, I’m 
 ## ozzy!
 ### I am just someone who is learning to code -
