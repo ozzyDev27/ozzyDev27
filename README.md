@@ -3,6 +3,7 @@
            margin-left: 50%;
            margin-right: 50%;
            width: 30%;
+           text-align: center;
            align: center;"
     src="https://raw.githubusercontent.com/ozzyDev27/ozzyDev27/master/ozzyLogo.png" 
     alt="ozzy">
