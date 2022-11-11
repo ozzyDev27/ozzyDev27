@@ -1,4 +1,6 @@
-[![Header](https://raw.githubusercontent.com/ozzyDev27/ozzyDev27/master/ozzyLogo.png "Header")]
+<p align="center">
+  <img src="raw.githubusercontent.com/ozzyDev27/ozzyDev27/master/ozzyLogo.png" />
+</p>
 
 Hi, I’m 
 ## ozzy!
