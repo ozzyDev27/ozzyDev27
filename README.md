@@ -1,7 +1,7 @@
 <img 
     style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
+           margin-left: 50%;
+           margin-right: 50%;
            width: 30%;
            align: center;"
     src="https://raw.githubusercontent.com/ozzyDev27/ozzyDev27/master/ozzyLogo.png" 
