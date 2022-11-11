@@ -1,6 +1,9 @@
 <p align="center">
-  <img source=""></img>
+  <img source="">
+  </img>
 </p>
+
+
 Hi, I’m 
 ## ozzy!
 ### I am just someone who is learning to code -
