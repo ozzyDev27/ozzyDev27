@@ -3,7 +3,7 @@
            margin-left: auto;
            margin-right: auto;
            width: 30%;"
-    src="https:raw.githubusercontent.com/ozzyDev27/ozzyDev27/master/ozzyLogo.png" 
+    src="https://raw.githubusercontent.com/ozzyDev27/ozzyDev27/master/ozzyLogo.png" 
     alt="ozzy">
 </img>
 Hi, I’m 
