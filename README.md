@@ -1,5 +1,11 @@
-![Header](https://raw.githubusercontent.com/ozzyDev27/ozzyDev27/master/ozzyLogo.png "Header")
-
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 30%;"
+    src="[https://markdown.land/wp-content/uploads/2021/06/markdown-512px.png](https://raw.githubusercontent.com/ozzyDev27/ozzyDev27/master/ozzyLogo.png)" 
+    alt="ozzy">
+</img>
 Hi, I’m 
 ## ozzy!
 ### I am just someone who is learning to code -
