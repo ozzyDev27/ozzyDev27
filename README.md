@@ -1,4 +1,5 @@
-<img src="raw.githubusercontent.com/ozzyDev27/ozzyDev27/master/ozzyLogo.png"></img>
+<img src="raw.githubusercontent.com/ozzyDev27/ozzyDev27/master/ozzyLogo.png">
+</img>
 
 Hi, I’m 
 ## ozzy!
