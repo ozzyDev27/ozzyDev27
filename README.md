@@ -1,5 +1,4 @@
-<img src="raw.githubusercontent.com/ozzyDev27/ozzyDev27/master/ozzyLogo.png">
-</img>
+![Header](https://raw.githubusercontent.com/ozzyDev27/ozzyDev27/master/ozzyLogo.png "Header")
 
 Hi, I’m 
 ## ozzy!
