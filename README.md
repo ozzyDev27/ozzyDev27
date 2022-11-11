@@ -1,6 +1,5 @@
-<p align="center">
-  <img source="ozzyLogo.png"></img>
-</p>
+[![Header](https://raw.githubusercontent.com/ozzyDev27/ozzyDev27/master/ozzyLogo.png "Header")]
+
 Hi, I’m 
 ## ozzy!
 ### I am just someone who is learning to code -
