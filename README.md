@@ -1,8 +1,6 @@
 <p align="center">
-  <img source="ozzyLogo.png">
-  </img>
+  <img source="ozzyLogo.png"></img>
 </p>
-
 Hi, I’m 
 ## ozzy!
 ### I am just someone who is learning to code -
