@@ -17,3 +17,21 @@ Make sure to be clear you have found me through GitHub! I automatically assume t
 ozzy#9650
 ##### Email
 businessozzy27@gmail.com
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/ozzyDev27/ozzyDev27">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzyDev27&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/ozzyDev27/ozzyDev27">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozzyDev27&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/ozzyDev27/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ozzyDev27&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/ozzyDev27/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ozzyDev27&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
