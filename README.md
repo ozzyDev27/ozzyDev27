@@ -1,36 +1,32 @@
-<img 
+<div align="center">
+  <img 
     style="display: block;
-           width: 30%;
-           align: center;"
+           width: 30%;"
     src="https://raw.githubusercontent.com/ozzyDev27/assets/master/ozzyLogo-shadow.png" 
     alt="ozzy">
-</img>
-Hi, I’m 
-## ozzy!
-### I am just someone who is learning to code -
-I am not taking a course, not watching videos, nothing! Just having fun with coding and seeing where that leads me!
-### Contact
-#### Note
-Make sure to be clear you have found me through GitHub! I automatically assume that people are bots/spammers, until proven otherwise!
-##### Discord
-ozzy#9650
-##### Email
-businessozzy27@gmail.com
+  </img>
+</div>
 
-## &#x1f4c8; GitHub Stats
+Hi! I'm
+## **ozzy**!
+I'm a solo developer who is learning to code!  
+I suppose I am a full-stack developer, for I make everything myself  
+(Except for when I steal [my friend](https://github.com/Ultra-bob)'s code)  
+I don't code in a specific area, I just do what seems fun.  
+This includes web design, data analysis, AI, game design, and much more!  
+I mostly use Python, but I know a bit of HTML and CSS, and am learning to  
+be better at markdown.
 
-<a href="https://github.com/ozzyDev27/ozzyDev27">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzyDev27&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/ozzyDev27/ozzyDev27">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzyDev27&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</div>
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozzyDev27&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
+</div>
 
-<a href="https://github.com/ozzyDev27/oztils">
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ozzyDev27&repo=oztils&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/ozzyDev27/Vipr">
+</div>
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ozzyDev27&repo=Vipr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</div>    
