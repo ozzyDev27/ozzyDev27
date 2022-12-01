@@ -2,10 +2,9 @@
     style="display: block; 
            margin-left: 50%;
            margin-right: 50%;"
-    src="https://raw.githubusercontent.com/ozzyDev27/ozzyDev27/master/ozzyLogo.png" 
+    src="https://raw.githubusercontent.com/ozzyDev27/assets/master/ozzyLogo-shadow.png" 
     alt="ozzy">
 </img>
-
 Hi, I’m 
 ## ozzy!
 ### I am just someone who is learning to code -
