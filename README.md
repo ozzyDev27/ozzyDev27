@@ -1,7 +1,8 @@
 <img 
     style="display: block; 
            margin-left: 50%;
-           margin-right: 50%;"
+           margin-right: 50%;
+           width: 200;"
     src="https://raw.githubusercontent.com/ozzyDev27/assets/master/ozzyLogo-shadow.png" 
     alt="ozzy">
 </img>
