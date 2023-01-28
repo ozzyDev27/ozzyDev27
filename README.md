@@ -14,8 +14,7 @@ I suppose I am a full-stack developer, for I make everything myself
 (Except for when I steal [my friend](https://github.com/Ultra-bob)'s code)  
 I don't code in a specific area, I just do what seems fun.  
 This includes web design, data analysis, AI, game design, and much more!  
-I mostly use Python, but I know a bit of HTML and CSS, and am learning to  
-be better at markdown. I also am pretty decent at scratch lol :D
+I mostly use Python, but I play around and know a few other languages. I also am pretty decent at scratch lol :D
 ## Accounts!
 Discord: [ozzy#9112](discordapp.com/users/602837327185707029)  
 Email: businessozzy27@gmail.com  
