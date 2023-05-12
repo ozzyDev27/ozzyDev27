@@ -1,12 +1,3 @@
-<div align="center">
-  <img 
-    style="display: block;
-           width: 30%;"
-    src="https://raw.githubusercontent.com/ozzyDev27/assets/master/ozzyLogo-shadow.png" 
-    alt="ozzy">
-  </img>
-</div>
-
 Hi! I'm
 ## **ozzy**!
 I'm a solo developer who is learning to code!  
