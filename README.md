@@ -10,11 +10,7 @@ I mostly use Python, but I play around and know a few other languages. I also am
 Discord: [ozzy#9112](discordapp.com/users/602837327185707029)  
 Email: businessozzy27@gmail.com  
 
-## GitHub Stats!
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozzyDev27&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
-</div>
-
+## Fun Repos!
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ozzyDev27&repo=oztils&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </div>
