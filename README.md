@@ -15,5 +15,5 @@ Email: businessozzy27@gmail.com
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ozzyDev27&repo=oztils&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </div>
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ozzyDev27&repo=Vipr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ozzyDev27&repo=Mocha&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </div>    
