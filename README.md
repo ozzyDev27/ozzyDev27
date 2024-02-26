@@ -6,7 +6,7 @@ I suppose I am a full-stack developer, for I make everything myself
 I don't code in a specific area, I just do what seems fun.  
 This includes web design, data analysis, AI, game design, and much more!  
 I mostly use Python, but I play around and know a few other languages. I also am pretty decent at scratch lol :D  
-I also love Pokemon, so I do tons of stuff relating to ROM hacks, RNG manip, and decomps!
+I also love Nintendo, so I do tons of stuff relating to ROM hacks, RNG manip, and decomps!
 ## Accounts!
 Discord: [ozzy027](https://discordapp.com/users/602837327185707029)  
 Email: businessozzy27@gmail.com  
